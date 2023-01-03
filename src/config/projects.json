@@ -1,0 +1,19 @@
+{
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur dolorum beatae asperiores recusandae quisquam ullam iusto sapiente, repellendus aut atque tempore explicabo exercitationem voluptates error deleniti optio laudantium velit. Animi!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Project 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur dolorum beatae asperiores recusandae quisquam ullam iusto sapiente, repellendus aut atque tempore explicabo exercitationem voluptates error deleniti optio laudantium velit. Animi!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Project 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur dolorum beatae asperiores recusandae quisquam ullam iusto sapiente, repellendus aut atque tempore explicabo exercitationem voluptates error deleniti optio laudantium velit. Animi!",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
